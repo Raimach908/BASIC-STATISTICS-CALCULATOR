@@ -1,0 +1,50 @@
+2.00  4.00  3.00  
+Geometric mean  =  2.88
+2.00  3.00  2.00  
+Arithematic mean = 2.00
+2  3  2  1  
+Range =  2
+2.00  5.00  4.00  
+Harmonic mean  =   3.16
+3.00  2.30  5.40  1.00  7.60  
+Mode = 3.00
+2.00  3.00  4.00  
+Median = 3.00
+2.00  3.00  5.00  
+Standared deviation = 1.29
+3.40  5.00  3.00  7.00  6.00  12.00  
+Variance = 8.67
+34.00  2.30  4.00  1.60  5.00  
+5.40  5.00  4.00  76.00  2.00  
+Covariance = -104.00 
+3.00  4.00  6.70  3.00  
+-4.00  3.00  -23.00  -5.40  
+ Pearson Correlation = -0.82 
+3.00  4.00  2.00  3.00  
+4.00  2.00  -5.40  -6.00  
+ Population Correlation Coefficient = 0.35 
+2.00  3.00  4.00  
+5.00  4.00  -5.00  
+Linear Correlation Coefficient = -3.33 
+4.00  2.00  4.00  
+5.60  -7.00  0.40  
+ Sample Correlation Coefficient = 0.77 
+3.40  -5.00  -6.50  0.00  3.50  4.00  5.00  3.00  7.00  6.00  
+ Regression = 5.23 
+2.00  3.00  2.00  
+Arithematic mean = 2.00
+3  5  4294967294  
+Range =  4294967291
+3.00  3.40  -4.00  -3.60  
+Median = -0.30
+0.00  0.00  0.00  
+Range =  0.00
+3.00  4.00  3.00  5.00  
+Mode = 3.00
+3.40  3.00  5.40  6.00  5.00  
+Standared deviation = 1.18
+4.00  5.60  -4.00  
+Arithematic mean = 1.00
+4.00  3.00  9.00  7.00  
+1.00  2.00  7.00  5.00  
+ Pearson Correlation = 0.96 
